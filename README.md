@@ -45,3 +45,22 @@ The employee management system was developed using the following technologies:
 
 [php.com]: https://www.php.net/images/logos/php-power-micro.png 
 [php-url]:https://php.net
+
+<!-- installition -->
+## installition
+
+To install and use the employee management system, follow these steps:
+<ul>
+
+<li>Clone the repository from Github</li>
+
+<li> Install the required dependencies using composer install.</li>
+
+<li>Create a new MySQL database and import the database.sql file included in the repository.</li>
+
+<li>Edit the config.php file with your database credentials.</li>
+
+<li>Start the development server using "php -S localhost:8000" 
+ to access the application then Visit http://localhost:8000 in your web browser to access the website.
+</li>
+</ul>
