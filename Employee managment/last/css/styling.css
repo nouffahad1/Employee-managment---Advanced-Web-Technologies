@@ -1,0 +1,85 @@
+body {
+	background-image: url("../images/background.jpg");
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+	margin: 5% auto;
+}
+
+.header {
+	margin: 5% auto;
+}
+
+.well {
+	
+	background: #FFF;
+}
+
+h1 {
+	font-size: 23px;
+}
+
+.form-group label {
+	text-align: left!important
+}
+.header {
+	margin: 5% auto;
+}
+
+.well {
+	
+	background: #FFF;
+}
+
+h1 {
+	font-size: 23px;
+}
+
+.form-group label {
+	text-align: left!important
+}
+
+header .container .head {
+	background: white;
+}
+
+a {
+	font-size: 17px;
+	color: #549AD3;
+	
+}
+
+ul {
+  list-style-type: none;
+  margin: 20px;
+  padding: 0;
+	background-color: #549AD3;
+  overflow: hidden;
+	border-radius: 20px;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 18px;
+  text-decoration: none;
+	font-size: 16px;
+}
+
+
+ul li a:hover {
+  background-color: #4a6776;
+	color: #FFFFFF;
+	 text-decoration: none;
+}
+
+ul li a.active {
+	 background-color: #C3E8F3;
+	color: #549AD3;
+	 text-decoration: none;
+}
