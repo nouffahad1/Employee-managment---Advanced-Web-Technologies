@@ -41,7 +41,7 @@ The employee management system was developed using the following technologies:
 <br> JavaScript: JavaScript was used to add interactivity and dynamic features to the system, such as form validation and AJAX requests.
 
 * [![php][php.com]][php-url]  PHP: PHP was used for the back-end development, allowing for efficient database management and server-side processing.
-&nbsp<li>MySQL: MySQL was used as the database management system to store and manage employee data.</li>
+    <li>MySQL: MySQL was used as the database management system to store and manage employee data.</li>
 
 [php.com]: https://www.php.net/images/logos/php-power-micro.png 
 [php-url]:https://php.net
